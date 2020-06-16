@@ -19,7 +19,7 @@ This is a simple project to use L298N with Arduino to drive Lego Power Functions
   - To connect Lego Power Functions battery box the outer most 2 cables will used.
   - To connect Lego Power Functions motors the 2 cables in the middle will be used.
   
-![LegoCables](images/legoCables.jpg| width=320)
+![](images/legoCables.jpg | width=100)
 
   
 ![Circuit Diagram](images/CircuitDiagram.png)
