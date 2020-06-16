@@ -1,4 +1,4 @@
-# Arduino-MotorControlfk lWE<
+# Arduino-MotorControl
 
 
 This is a simple project to use L298N with Arduino to drive Lego Power Functions Motors. 
