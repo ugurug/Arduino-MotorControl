@@ -29,6 +29,10 @@ While connecting Lego Power functions motors C1 and C2 cables will be used
 ![Circuit Diagram](images/CircuitDiagram.png)
 
 
+![Lego Picture](images/Lego42095.jpg)
+
+
+
 
 References: 
 
